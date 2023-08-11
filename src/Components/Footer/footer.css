@@ -1,0 +1,10 @@
+.foot-container {
+  display: flex;
+  justify-content: space-around;
+  background-color: black;
+  color: beige;
+}
+ion-icon {
+  font-size: 30px;
+  margin: 5px;
+}
